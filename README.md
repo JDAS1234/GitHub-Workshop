@@ -45,7 +45,7 @@ Go to [https://desktop.github.com/download/](https://desktop.github.com/download
 9. Click the blue "Commit 1 file to YOUR_BRANCH_NAME" button.
 
 <hr>
-WRITE SOMETHING HERE -> 
+WRITE SOMETHING HERE -> here
 <hr>
 
 ### 7. \*Push\* your changes from local to remote.
@@ -127,5 +127,3 @@ You are now a GitHub GOAT, but there's still more to learn...
 
 1. [GitHub First Contributions](https://github.com/firstcontributions/first-contributions) => Learn how to start contributing to all of the amazing open-source projects available on GitHub!
 2. [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) => Save this for whenever you need a quick reminder!
-
-wdadawdadawd
